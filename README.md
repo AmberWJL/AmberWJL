@@ -1,20 +1,25 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋, I'm Amber!</h1>
 
 ###
 
-<p align="right">My name is Amber and I'm a Master student in Computer Science, from Univeristy of Waterloo.</p>
+<p align="right">I'm a Master's student in Computer Science at the University of Waterloo, specializing in leveraging machine learning to improve software engineering practices.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  ✨ Creating innovative solutions through code<br>
+  📚 Currently exploring test automation and code analysis using NLP and ML<br>
+  🎯 Goals: Enhance software engineering with advanced AI techniques and aspire to lead AI-driven projects<br>
+  🎲 Fun fact: I love rock climbing and do bouldering <br>
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code With</h2>
 
 ###
 
@@ -31,11 +36,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
+
+<p align="center">🔗 <a href="https://www.linkedin.com/in/amber-w-931757165/">LinkedIn</a> | <a href="https://github.com/AmberWJL">GitHub</a></p>
